@@ -1,12 +1,21 @@
 {
   "name": "nodejsexample",
   "version": "1.0.0",
-  "description": "node js practice",
+  "description": "w03 activity, create a nodejs project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "hello": "node helloworld.js"
+    "hello":"node helloworld.js"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "CIT262-Individual-Repository"
+  },
+  "keywords": [
+    "it",
+    "devops",
+    "test"
+  ],
+  "author": "Jacob McEwan",
   "license": "ISC"
 }
