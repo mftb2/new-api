@@ -7,6 +7,7 @@ export default function Login(props){
             <Text>Button moment</Text>
             <Button title="Hi Dallen" onPress={()=>{}}></Button>
             <Button title="Hi Jacob" onPress={()=>{}}></Button>
+            <Button title="Hi Jared" onPress={()=>{}}></Button>
         </View>
         
 
